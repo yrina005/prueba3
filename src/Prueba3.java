@@ -6,7 +6,7 @@ public class Prueba3 {
 		int a = 4;
 		int b = 8;
 		double promedio = (a+b)/2;
-		System.out.println (Promedio);
+		System.out.println (promedio);
 
 	}
 
