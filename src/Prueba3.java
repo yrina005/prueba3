@@ -5,6 +5,8 @@ public class Prueba3 {
 		// TODO Auto-generated method stub
 		int a = 4;
 		int b = 8;
+		double promedio = (a+b)/2;
+		System.out.println (Promedio);
 
 	}
 
